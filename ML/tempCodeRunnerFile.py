@@ -1,0 +1,1 @@
+df["discounted_price"].apply(clean_price)
